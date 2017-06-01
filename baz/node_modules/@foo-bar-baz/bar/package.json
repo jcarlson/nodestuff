@@ -1,0 +1,14 @@
+{
+  "name": "@foo-bar-baz/bar",
+  "version": "1.2.2",
+  "description": "bar!",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "localhost",
+  "peerDependencies": {
+    "@foo-bar-baz/foo": "^2.0.0"
+  },
+  "devDependencies": {
+    "@foo-bar-baz/foo": "^2.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@foo-bar-baz/baz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "baz!",
+  "repository": "localhost",
+  "dependencies": {
+    "@foo-bar-baz/bar": "^1.2.2",
+    "@foo-bar-baz/foo": "^1.0.1"
+  }
+}
